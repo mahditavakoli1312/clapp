@@ -67,6 +67,7 @@
     <style name="custom_textView_title" parent="Widget.AppCompat.TextView">
         <item name="android:textColor">@color/white</item>
         <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/yekanbakhbold</item>
         <item name="android:textSize">@dimen/size16</item>
         <item name="android:ellipsize">end</item>
         <item name="android:maxLines">4</item>
@@ -103,6 +104,7 @@
         <item name="android:textSize">30sp</item>
         <item name="android:textColor">@color/white</item>
         <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/yekanbakhbold</item>
     </style>
 
     <style name="custom_bottom_navigation" parent="Widget.Design.BottomNavigationView">
